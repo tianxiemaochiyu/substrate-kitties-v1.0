@@ -1,0 +1,1 @@
+use support::{ decl_storage }
